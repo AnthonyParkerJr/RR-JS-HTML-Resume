@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+ <body>
+  <head>
+    <title>Contact Us</title>
+    <h1>Contact Us</h1>
+  </head>
+   
+   <form>
+    <label for="first name"><strong>First Name:</strong></label>
+      <input type="text" id="fname" name="fname"maxlegnth="30">         <br>
+    
+    <label for="last name"><strong>Last Name:</strong></label>
+      <input type="text" id="lname" name="lname"maxlegnth="30">         <br>
+    
+    <label for="phone number"><strong>Phone Number:</strong>         </label>
+      <input type="text" id="phone" name="phone number"><br>
+      
+    <input type="radio" id="numbertype" name="Landline"    value="Landline">
+      <label for="Landline">Landline</label><br>
+      
+    <input type="radio" id="numbertype" name="Mobile"    value="Mobile">
+      <label for="Mobile">Mobile</label><br>
+        
+    <label for="Contact email"><strong>Contact email:</strong>       </label>
+     <input type="text" id="Email" name="Email"maxlegnth="50">         <br>
+      
+    <p><strong>How did you hear about us?</strong></p>                <select name="method" id="method">
+      <option value="Search Engine">None </option>
+      <option value="Search Engine">Search Engine</option>
+      <option value="Social Media">Social Media</option>
+      <option value="Recruiter">Recruiter</option></select>
+     
+     <p><strong>Interest for contacting:</strong></p>
+      <input type="checkbox" id="skill" name="Photoshop" value="photoshop">
+      <label for="skill"> Photoshop</label><br>
+     
+     <input type="checkbox" id="skill" name="Final Cut Pro X" value="Final Cut Pro X">
+      <label for="skill">Final Cut Pro X</label><br>
+      
+     <p> <strong>Message (text area, limit of 250 characters</strong>)</p>
+      <input type="Message">
+    </form>
+   </body>
+</html>
+ 
