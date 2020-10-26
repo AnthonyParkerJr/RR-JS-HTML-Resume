@@ -1,0 +1,87 @@
+Part 1
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Anthony Parker Jr Resume</title>
+  </head>
+  <body> 
+    <center><h1>Anthony Parker Jr.</h1></center>
+
+ 
+   <p>Charismatic, energetic, and creative individual with ground breaking experience in content development, community outreach, and public speaking. Resourceful and recognized for taking initiative, generating widespread support and executing strategic ideas. Accomplished public relations professional with more than four years of experience. Using the art of communications to drive change for sizable organizations of influence. 
+These entities utilize my expertise to develop compelling content--traditional and nontraditional strategies--leading to successful outcomes translating to relevance within their market.
+   </p>
+
+  <div> 
+  <h3>EXPERIENCE</h3><hr>
+
+   <p class="head"><strong>Social Media Consultant | Delaware Prevention Coalition| March 2020 - Current </strong> </p> 
+  <ul> 
+   <li>Created content calendars and schedule and oversees posting across company socials.</li>
+   <li>Overseeing a team of 10 prevention providers across the state of Delaware.</li>
+   <li>Developing content strategy for social media ( twitter, instagram, facebook)</li>
+  </ul>
+
+<!-- Insert a few DPP Photos here-->
+<!--DPP Link/website-->
+    
+  
+  <p class="head"><strong>Social Media Marketing Specialist | Delaware Juneteenth Association| March 2020 - Current </strong></p> 
+    <ul> 
+       <li>Copy writing articles for the DEJA website and social media.</li>
+       <li>Created content calendars and schedule and oversees posting across company socials.</li>
+       <li>Take eye-catching photos and curate our company album to be used for social media.</li>
+    </ul>
+    
+    <!-- Insert a few DPP Photos here-->
+    <!--DEJA/website-->
+</div>  
+    
+ <div>
+   <p class="head"><strong>Associate Television Producer/Staff Assistant | DETV Foundation Comcast Channel 28 | May 2019 - December 2019</strong></p>
+
+     <ul> 
+       <li>Pre-produced and edited video segments using Final Cut X, Adobe Premier, Adobe After Effects and Adobe Photoshop incorporating text, infographics, photos and audio to enhance video segments.</li>
+       <li>Produced "The Windy Skyy Show" TV series--selected topics, confirmed artist and guest scheduled to appear, wrote/edited the storyline, created motion/show builds, managed floor direction and supervised distribution.</li>
+       <li>Created, produced a social media/digital ad campaign for local dance company targeting fall enrollment which led to over 1M views and 30K shares.</li>
+    </ul>
+        <!--DETv/website-->
+ 
+ </div>
+    
+  <div>
+  <h3>EDUCATION</h3><hr> 
+
+    <p class="head"><strong>BACHELORS OF SCIENCE </strong></p>
+    <p>LINCOLN UNIVERSITY | LINCOLN UNIVERSITY, PA </p>
+      <p><strong>Major:</strong> Mass Communications <strong>Commencement:</strong>May 2019</p>
+    <hr> 
+ </div>
+   
+  <p class="head"><strong>Skills</strong></p>
+
+    <li>Adobe Photoshop CC 2020</li>
+    <li>Final Cut Pro X</li>
+    <li>Television Production</li> 
+  
+    <hr>
+    <br>
+   <!--Headshot insert here-->
+    
+    <img src="AP-Headshot.jpg" alt="AP-Headshot"width="200" height="200">
+    <p> Anthony Parker Jr.</p>
+    <p>646-431-1383</p>
+    <p><a href="mailto:Parkerjr.anthony@gmail.com"> Email | </a><a href="https://www.linkedin.com/in/parkerjranthony/" target="_blank">LinkedIn</a></p> 
+
+		<footer>
+			<p>All rights reserved to Anthony Parker Jr.</p>
+			<a href="#">Back to top &raquo;</a>
+		</footer>
+  </body>
+</html>
+
+
+
+
+
